@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459623891568",
+    "firebase_url": "https://calllogtracker-fc2e4-default-rtdb.firebaseio.com",
+    "project_id": "calllogtracker-fc2e4",
+    "storage_bucket": "calllogtracker-fc2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459623891568:android:d2ba1b459c15dc2362aab5",
+        "android_client_info": {
+          "package_name": "com.codewithshubh.calllogtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459623891568-ckmm74b44bdpvnvtuolj9vo4pq993ksv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithshubh.calllogtracker",
+            "certificate_hash": "615bbf6cbd3269ac98437ed04a019ed11dc6069a"
+          }
+        },
+        {
+          "client_id": "459623891568-45442cm4ftans1gjffmkqsvd453chibv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvjqbZhSkVjb6OW5X9WqbsG6vqO3u0pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459623891568-45442cm4ftans1gjffmkqsvd453chibv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
